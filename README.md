@@ -3,10 +3,10 @@
 🌐 **Portafolio:**
 👉 https://david-axel-portfolio.netlify.app
 
-💻 **Backend Developer** enfocado en **Python & Flask**
+💻 **Fullstack Developer** enfocado en **Python, Flask, React & TypeScript**
 🏗️ Arquitectura **Hexagonal** y buenas prácticas (**SOLID**)
 📦 Interés en producto: definición de problemas, roadmap y user stories
-🚀 Buscando oportunidad como **Backend Developer Jr / Becario**
+🚀 Buscando oportunidad como **Fullstack Developer Jr / Becario**
 
 💡 Desarrollo soluciones reales con enfoque en **escalabilidad, mantenibilidad y separación de responsabilidades**
 
@@ -19,7 +19,9 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-blue?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-JS-blue?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple?logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&logoColor=white)
 
 ---
@@ -66,7 +68,7 @@
 
 ## 🎯 Enfoque actual
 
-- Desarrollo backend escalable
+- Desarrollo fullstack: backend escalable + interfaces con React/TypeScript
 - Diseño y consumo de APIs REST
 - Arquitectura limpia, mantenible y desacoplada
 
@@ -92,6 +94,7 @@
 ## ⚡ Lo que me diferencia
 
 - Enfoque en arquitectura desde etapas tempranas
+- Capacidad de construir el stack completo: backend, frontend y despliegue
 - Capacidad de traducir ideas de producto a soluciones técnicas
 - Experiencia construyendo sistemas reales y funcionales
 - Código limpio y orientado a mantenibilidad
@@ -100,5 +103,5 @@
 
 ## 📫 Contacto
 
-📧 <mhdavid404@gmail.com>
+📧 <TU-CORREO-AQUI@gmail.com>
 🐙 [GitHub](https://github.com/mhdavid404-sudo)
