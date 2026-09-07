@@ -3,10 +3,7 @@
 🌐 **Portafolio:**
 👉 https://david-axel-portfolio.netlify.app
 
-💻 **Fullstack Developer** enfocado en **Python, Flask, React & TypeScript**
-🏗️ Arquitectura **Hexagonal** y buenas prácticas (**SOLID**)
-📦 Interés en producto: definición de problemas, roadmap y user stories
-🚀 Buscando oportunidad como **Fullstack Developer Jr / Becario**
+**Fullstack Developer | Python, Flask & React | Arquitectura Hexagonal | Buscando oportunidad Jr**
 
 💡 Desarrollo soluciones reales con enfoque en **escalabilidad, mantenibilidad y separación de responsabilidades**
 
